@@ -19,3 +19,7 @@ output -> 'g'
 2) O conjunto de dados flor Íris ou conjunto de dados Íris de Fisher é um conjunto de dados multivariados introduzido pelo estatístico e biólogo britânico Ronald Fisher em seu artigo de 1936. 
 Desenvolva um script em python para encontrar a média do petal_length de cada espécie presente no dataset. 
 Utilize a função pd.read_csv() para baixar o conteúdo disponível na url https://raw.githubusercontent.com/mwaskom/seaborn-data/master/iris.csv
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Observação: No repositório estão o código em Python do teste técnico e também o jupyter notebook do teste, que usei para realizá-lo inicialmente.
