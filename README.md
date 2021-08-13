@@ -1,6 +1,6 @@
-# Teste Técnico
+# Teste Técnico - Resolução
 
-Teste técnico contendo duas questões/tarefas, sendo elas:
+Resolução do teste técnico contendo duas questões/tarefas, sendo elas:
 
 1) Desenvolva um script em python para retornar o primeiro valor não repetido de uma string.
 
