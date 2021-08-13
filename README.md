@@ -22,4 +22,4 @@ Utilize a função pd.read_csv() para baixar o conteúdo disponível na url http
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Observação: No repositório estão o código em Python do teste técnico e também o jupyter notebook do teste, que usei para realizá-lo inicialmente.
+Observação: No repositório estão o código em Python do teste técnico e também o Jupyter Notebook do teste, que usei para realizá-lo inicialmente.
