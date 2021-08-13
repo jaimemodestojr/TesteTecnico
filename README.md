@@ -5,6 +5,7 @@ Teste técnico contendo duas questões/tarefas, sendo elas:
 1) Desenvolva um script em python para retornar o primeiro valor não repetido de uma string.
 
 Exemplo:
+
 input -> 'teste'
 output -> 's'
 input -> 'engenharia de dados'
