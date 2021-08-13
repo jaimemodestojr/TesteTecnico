@@ -7,8 +7,11 @@ Teste técnico contendo duas questões/tarefas, sendo elas:
 Exemplo:
 
 input -> 'teste'
+
 output -> 's'
+
 input -> 'engenharia de dados'
+
 output -> 'g'
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
